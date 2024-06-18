@@ -4,15 +4,25 @@
   margin-right: auto;
   text-align: center;
 }
-.calcu{
+
+.calcu {
   border-color: gray
 }
-.inputs{
+
+.inputs {
   display: flex;
   justify-content: center;
 }
-.inputs button{
+
+.inputs button {
   width: 60px;
   height: 40px;
+  text-align: center;
+}
+
+.display {
+  height: 1rem;
+  line-height: 1rem;
+  font-size: 1rem;
   text-align: center;
 }
